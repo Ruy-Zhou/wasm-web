@@ -1,0 +1,3 @@
+[RSW::OK]
+[RSW::NAME] :~> @rsw/rsw-hello
+[RSW::PATH] :~> /Users/ruy.zhou/Workspace/wasm-web/@rsw/rsw-hello/src/lib.rs
